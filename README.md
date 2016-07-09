@@ -35,13 +35,13 @@ pythonよりごちゃっとしてしまった気がする。オブジェクト�
 よい。アルゴリズム理解して実装力あげて自分でささっとかけるようになろう。
 
 ##opt_2.py, or_opt.py, optimize.py
-###<http://www.geocities.jp/m_hiroi/light/pyalgo64.html>を参考にして、今回の入出力に合うように調節した。
+<http://www.geocities.jp/m_hiroi/light/pyalgo64.html>を参考にして、今回の入出力に合うように調節した。
 
 ###結果
 強い。
 
 ##combine.py
-###上のoptimize.pyが強いことが分かったので、他の方法でだしたパスを入力として受け取って、そこからoptimizeを実行するようにした。
+上のoptimize.pyが強いことが分かったので、他の方法でだしたパスを入力として受け取って、そこからoptimizeを実行するようにした。
 
 ##devide.py
 ###分割統治法
